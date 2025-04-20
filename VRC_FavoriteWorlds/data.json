@@ -1,0 +1,126 @@
+{
+    "ReverseCategorys": false,
+    "ShowPrivateWorld": true,
+    "Categorys": [
+        {
+            "Category": "自作ワールド",
+            "Worlds": [
+                {
+                    "ID": "wrld_70e54b8d-d4e8-4933-8dd4-3ad2246b0ad8",
+                    "Name": "謎解きワールド「WHITE OUT」",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 16,
+                    "Description": "1枚謎のみのシンプルな謎解きワールドです。 ＃VRC_WHITE_OUT",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                }
+            ]
+        },
+        {
+            "Category": "クリアしたワールド",
+            "Worlds": [
+                {
+                    "ID": "wrld_e33cedae-fcd9-4fe3-bde9-a17764d440ec",
+                    "Name": "file1˸デスゲーム殺人事件からの脱出",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "【日本語の謎解きワールド】私は名前はシェリン。以前は謎川と名乗っていた、探偵だ。君たちにはこのワールドで、謎解きだらけのゲームを追体験してもらう。答え・解説はnoteへ https˸⁄⁄note․com⁄antoraion⁄n⁄nd39b7c265ed9",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_08aa6004-82fe-4b22-9e2d-6ae9a35f6b6d",
+                    "Name": "file2˸AI学者と謎だらけな塔",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "【日本語の謎解きワールド】無事にデスゲームから逃れたシェリン。アンという殺人AIの開発者を突き止めるべく、３人のAI学者に会いに行く。変わり者の彼女に会うためには、塔の攻略が必要になる。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_1aa06de2-a856-47b6-9fad-e2dcc6578341",
+                    "Name": "file3˸探偵救出作戦-ユサと謎解き-",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "【日本語の謎解きワールド】またも黒幕に誘拐された探偵シェリンを助け出すために、調査員たちは優秀なオペレータとともに謎の施設を攻略する。ギミックは全てローカル。想定プレイ時間は1~2時間。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_9e3c6374-d3a9-4039-a393-ddd89519357f",
+                    "Name": "file4˸最後の実験場",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "【日本語の謎解きワールド】シリーズ最終作。file1‚file2‚file3をあらかじめプレイしておくことを推奨します。ギミックは全てローカル。想定プレイ時間は60-90分",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_314fe5c2-df8f-45d1-98b6-d6084c3a3075",
+                    "Name": "謎解きのサクリファイス⁄sacrifice",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "多人数で遊べる謎解きワールドです。制限時間は１問180秒、全20問。時間が切れそうになったら、誰かを犠牲に？",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_b35dd539-72f1-4812-9baf-0a4b71d0f6b4",
+                    "Name": "謎と勇気とかしわもち⁄kashiwamochi",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "多人数で遊べる謎解きワールドです。制限時間は１問240秒、全20問。不正解を選んだ人が、脱落します。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_b8f09a42-c6db-44c6-9649-d858b75d1fd5",
+                    "Name": "探偵・謎川事件譚-仮想現実殺人事件-⁄satsujinjiken",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 40,
+                    "Description": "ソロでも複数人でもできる謎解きワールドです。謎を解き、手がかりを集め、このワールドで発生した殺人事件の犯人を当てよ！",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_0ed2a7cd-fb15-4c2d-9b09-2b6956b3aae1",
+                    "Name": "ノナリーゲーム-謎とジレンマ-nonary game",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "＂９つのゲームで生き残れ＂。2人以上専用の謎解きデスゲームワールドです。途中参加OK！前作「仮想現実殺人事件」未プレイでも楽しめます。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_9f00b76f-7b50-493b-b669-2636f3cf301c",
+                    "Name": "ふろーずん・わーど！-凍るタイムラインの謎-⁄FrozenWord",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "【日本語話者向け謎解きワールド】プレイ人数：1人～ 想定クリア時間：60~90分 有名SNS「ブイッター」を運営するフワードと共にタイムラインの平和を取り戻そう！",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                }
+            ]
+        }
+    ]
+}
