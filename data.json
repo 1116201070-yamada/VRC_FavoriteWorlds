@@ -119,6 +119,45 @@
                         "PC": true,
                         "Android": true
                     }
+                },
+                {
+                    "ID": "wrld_f1473f42-bd9c-4680-acaa-4730c7a04f46",
+                    "Name": "MAZE",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "∗∗∗このワールドは未完成ですが、あなたの行動によって異なる結末を迎えることができます。∗∗∗",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_e77e8674-b59a-4b7f-9b2b-c3552c81a87c",
+                    "Name": "【VR脱出ゲーム】不可能からの脱出",
+                    "RecommendedCapacity": 10,
+                    "Capacity": 10,
+                    "Description": "【注意：VR推奨】 日本語のVR脱出ゲームワールド！ 「脱出不可能な」建物から脱出してね！！ ｜＃VRC_Fukanou",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                }
+
+            ]
+        },
+        {
+            "Category": "クリアしたワールド（ホラー要素あり）",
+            "Worlds": [
+                {
+                    "ID": "wrld_869a5530-c825-4236-a749-7f7c45cb2d01",
+                    "Name": "Keys",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 16,
+                    "Description": "謎解きゲーム鍵を集めてゴールを目指そう！UDON",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
                 }
             ]
         }
