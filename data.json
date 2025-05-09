@@ -84,7 +84,7 @@
                     "Description": "多人数で遊べる謎解きワールドです。制限時間は１問240秒、全20問。不正解を選んだ人が、脱落します。",
                     "Platform": {
                         "PC": true,
-                        "Android": false
+                        "Android": true
                     }
                 },
                 {
@@ -115,6 +115,94 @@
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
                     "Description": "【日本語話者向け謎解きワールド】プレイ人数：1人～ 想定クリア時間：60~90分 有名SNS「ブイッター」を運営するフワードと共にタイムラインの平和を取り戻そう！",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_a589724c-3ce2-4e0f-8de8-3b8eb01a739b",
+                    "Name": "謎解きスケルトンパズル",
+                    "RecommendedCapacity": 10,
+                    "Capacity": 15,
+                    "Description": "初めての謎解きワールドです！スケルトンパズルのワードが全て謎解きです！想定時間˸30分～1時間",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_e1487749-ee42-4141-900e-a782558b06bf",
+                    "Name": "ピタゴラ謎",
+                    "RecommendedCapacity": 7,
+                    "Capacity": 12,
+                    "Description": "謎解きワールド第二弾！謎解きとピタゴラ装置、両方楽しめるワールドです！ 10⁄2 バグを修正しました（）",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_10cc4107-0e40-4e39-8a49-e1f0ca2c996a",
+                    "Name": "初心者案内がちょっとできるかもしれない謎解き",
+                    "RecommendedCapacity": 5,
+                    "Capacity": 10,
+                    "Description": "初心者の方にVRChatってどんなワールドがあるかを謎解きをしながら知れる謎解きワールドです。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_02fac2cf-42d0-4fa3-bf6d-c395799b8c63",
+                    "Name": "謎解きワールド『まめひなた謎』",
+                    "RecommendedCapacity": 5,
+                    "Capacity": 15,
+                    "Description": "まめひなたを使った謎が出てくる謎解きワールドです。問題数˸7問",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_f12d93b2-ba91-49e1-b316-a59784902993",
+                    "Name": "謎解きワールド『なぞとき48手』",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 20,
+                    "Description": "なでなで48手？いや、違う。うちは＂なぞとき＂48手だ！！！＃VRC_48",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_466c8f98-263e-4986-b59c-0f5eeb5b63ee",
+                    "Name": "謎解きワールド「走馬灯謎」",
+                    "RecommendedCapacity": 5,
+                    "Capacity": 10,
+                    "Description": "これまでに出てきた謎解きワールドで謎が作られている謎解きワールドです。難易度：高め 全7問 万が一ミスと思うかもしれませんが、ミスではありません。＃VRC_走馬灯",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_e3027c30-6bdb-4757-92e8-39787d5e50be",
+                    "Name": "謎解きワールド『謎解きスケルトンパズル セカンド』",
+                    "RecommendedCapacity": 10,
+                    "Capacity": 20,
+                    "Description": "僕の初めて作った謎解きワールド『謎解きスケルトンパズル』の第二回です！",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_b83b8a56-49a4-4bd3-8a8e-180422bd5e83",
+                    "Name": "謎解きワールド『Sky Rainbow of travel』",
+                    "RecommendedCapacity": 5,
+                    "Capacity": 15,
+                    "Description": "［謎ワ制作交流イベント『DUELECT』］ 空と虹をテーマにした謎解きです。",
                     "Platform": {
                         "PC": true,
                         "Android": true
