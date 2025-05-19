@@ -234,6 +234,165 @@
             ]
         },
         {
+            "Category": "クリアしたワールド（simple要素あり）",
+            "Worlds": [
+                {
+                    "ID": "wrld_d1f20a65-3892-4b56-b2da-e977d8c2afc8",
+                    "Name": "謎解きワールド「Simple Puzzle」",
+                    "RecommendedCapacity": 10,
+                    "Capacity": 20,
+                    "Description": "「JP⁄EN対応」謎解き「Simple Puzzle」。不親切、想定クリア時間は４時間以上。 シリーズ解説ワールドあります。You need to try ［Play］ again to get the cake！ ＃VRC_simple_puzzle",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_ed8c631f-2faa-49a2-8442-b0b6de059c58",
+                    "Name": "謎解きワールド「Simple Puzzle 2」",
+                    "RecommendedCapacity": 5,
+                    "Capacity": 10,
+                    "Description": "「JP only」謎解きシリーズ第二作目「Simple Puzzle 2」高難易度、想定クリア時間は３時間以上。解説ワールドあります。 You need to try ∗［PLAYAGAIN］ to get the cake․＃VRC_Simple_Puzzle",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_6dfd1590-f339-4df1-a7a5-4df33b6f83b2",
+                    "Name": "謎解きワールド「Simple Puzzle 3」",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 16,
+                    "Description": "「EN⁄JP対応」謎解きワールド「シンプルパズル」三作目。想定クリア時間2時間。３－５の解答は、シリーズずっと求めるのそのもの。 解説ワールドあります。 Simple Puzzle 3［JP⁄EN］․ The answer of 3-5 is CAKE․1-2H playtime estimated․ ＃VRC_Simple_Puzzle",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_878bd1eb-9703-4141-95f0-36870c3a6416",
+                    "Name": "謎解きワールド「Simple Puzzle 4」",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "EN⁄JP対応謎解きワールド「シンプルパズル」四作目。想定クリア時間2時間。 解説ワールドあります․ All gimmicks are local‚ 2H playtime estimated․ ＃VRC_Simple_Puzzle 全シリーズずっと求めるのは「cake」です。 The whole serie is pursuing for ［cake］․",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_a2820229-94dd-4221-80d7-7c698f6685d6",
+                    "Name": "謎解きワールド「8 for 1」",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 16,
+                    "Description": "合計２０問の謎解きワールド。シンプルパズル第五作目。想定クリア時間は３－４時間。B面追加済み。解説ワールドあります ＊英語と日本語知識必要 ＃VRC_Simple_Puzzle",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_814c360a-472f-4d69-b2d8-ec3ffb3b3820",
+                    "Name": "謎解きワールド「Simple Bedroom」",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 16,
+                    "Description": "謎解きワールド「Simple Bedroom」。Have a nice dream․ A simple bedroom with a simple puzzle․ シンプルパズルシリーズ第６作、解説ワールド開設済み。 オリジナル：OBSERVATION by はるる早苗 ハンドメニューの使え方：VRモード左手トリガー早く二回押す、DESKTOPモードはTabキー押す。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_3ecb59d9-ddb2-4a36-9e42-1e88d9680771",
+                    "Name": "謎解きワールド「Simple Puzzle 7」",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 16,
+                    "Description": "A simple puzzle world․ Estimated time 30m - 1h․ シンプルパズル第七作目。想定時間は１時間。 解説ワールド開設済み。オリジナル：おつルーム２ by 甘依おつ様",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_e90eb9ae-7dd5-400a-abac-a5ba638477ae",
+                    "Name": "謎解きワールド「Simple Puzzle 8」",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 16,
+                    "Description": "［JP⁄EN］ A simple puzzle world․ Estimated play time 2-3h․ シンプルパズル第8作目、想定時間２－３時間。 今回も、いつものの、ケーキのために。 gimmicks are local․ 全動きはローカル。解説ワールド開設済み。 Original˸Simple Bedroom by spookyghostboo ＃VRC_Simple_Puzzle",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_07cbd5d4-faa0-4e71-b737-db9ebbc48ea4",
+                    "Name": "謎解きワールド「Simple Puzzle 9」",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "［JP⁄EN］ シンプルパズル第9作、想定時間2時間。 シリーズ最終回、解説ワールド開設済み。The end of SimplePuzzle series․ Estimated play time is 2h․ Original˸Cozy Nest by VirtualWhaleStudio ＃VRC_Simple_Puzzle",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_8769b000-cf51-4165-a85f-9078831adf65",
+                    "Name": "「一枚謎解き」MINIMAL",
+                    "RecommendedCapacity": 5,
+                    "Capacity": 10,
+                    "Description": "「JP⁄EN」一枚謎解き「ミニマル」。想定クリア時間10分～。Riddle 「MINIMAL」‚ estimated clear time 10min~․ ＃VRC_MINIMARUPUZZLE",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_b1513658-0265-4536-82ac-63abc2fb1d2f",
+                    "Name": "「一枚謎解き」MINIMAL2",
+                    "RecommendedCapacity": 5,
+                    "Capacity": 10,
+                    "Description": "「JP⁄EN」一枚謎解き「ミニマルツー」。想定クリア時間5分～。Riddle 「MINIMAL2」‚ estimated clear time 5min~․ ＃VRC_MINIMARUPUZZLE",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_94c3f931-003f-465a-b100-1191bd0739f1",
+                    "Name": "「一枚謎解き」MINIMAL3",
+                    "RecommendedCapacity": 5,
+                    "Capacity": 10,
+                    "Description": "「JP⁄EN」一枚謎解き「ミニマル3」。想定クリア時間10分～。Riddle 「MINIMAL3」‚ estimated clear time 10min~․ ＃VRC_MINIMARUPUZZLE",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_bc42019c-7d91-452b-9110-ec88d69fa57f",
+                    "Name": "「一枚謎解き」MINIMAL4",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "「JP⁄EN」一枚謎解き「ミニマル4」。想定クリア時間5分～。Riddle 「MINIMAL4」‚ estimated clear time 5min~․ ＃VRC_MINIMARUPUZZLE",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_9bbefcb1-df03-405a-af11-678bc3b5fcce",
+                    "Name": "謎解きワールド「しかくだけの謎解き」",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "日本語話者向けの謎解きワールド、かなり高難易度・製作者の自己満足ご注意を。想定２時間以上。 ＃VRC_sikakudake",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+            ]
+        },
+        {
             "Category": "クリアしたワールド（ホラー要素あり）",
             "Worlds": [
                 {
