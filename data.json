@@ -229,7 +229,140 @@
                         "PC": true,
                         "Android": true
                     }
+                },
+                {
+                    "ID": "wrld_62af0f8a-b43c-4f9e-8e7c-fb9da4931d4a",
+                    "Name": "ピーコロンとは？",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "謎を解きながら、言葉遊びコミュニティ「ピーコロン」でどのような言葉遊びが行われているかを紹介します。 全10問＋EX1問 ＃VRC_pcol",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_fe084e76-e883-4d5f-8793-2072c73a9f11",
+                    "Name": "世界で一番操作性が悪い謎解きワールド",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "注意：このワールドにはジャンプスケアが含まれます。このワールドは「世界で一番操作性が悪いゲーム」のパロディです。操作性とユーザーエクスペリエンスが悪いです。想定クリア時間：～30 min․ 「世界で一番操作性が悪いゲーム」をプレイしておいたほうが楽しめるかもしれませんが、プレイしていなくてもクリアはできます。動作はペン以外ローカルです。＃世界で一番操作性が悪い謎解き",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_04680bc1-1604-4480-9685-a3c2342256e5",
+                    "Name": "Coloured - S社実験記録1",
+                    "RecommendedCapacity": 4,
+                    "Capacity": 16,
+                    "Description": "VRの人間が1人は必須です。ようこそ、被験者。このワールドでは基本的な、ボタンとドアを使った知能検査を行います。 動作˸ グローバル＆ローカル、同期に時間がかかる場合があります。 想定時間˸ 5 min ~ 15 min ＃VRC_S社1",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_bac9d7a7-04ea-436a-9a0f-f406f447cfdf",
+                    "Name": "12Riddles",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "12Riddlesです。謎解きです。適宜検索を推奨します。想定時間 2 hours․ 動作は基本的にローカルですが、一部致命的にグローバルなものを含みます。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_db93cdae-ce68-4c91-9c9a-d6cf53c0453a",
+                    "Name": "忘却の迷宮（ラビリンス・オブ・オブリビオン）",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "目覚めると、あなたは記憶を失っていた。ここはどこか？ なぜ閉じ込められたのか？ 迷宮を探索し、記憶の欠片を集めて真実を解き明かせただし、選択を誤れば、永遠に迷宮を彷徨うことになる。 プレイ人数： 1～4人（ソロ・協力プレイ対応） 想定プレイ時間： 30～60分 推奨設定： ワールド内の音声ON、暗所耐性あり このワールドはAIのアイデアをもとに設計されました。VRならではの没入感を活かした謎解きを体験してください。あなたは、真実に辿り着けるか？ （追記˸ ピクセルライトの設定で≺なし≻≺低≻にすると問題が正しく表示されない場合があります。）",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_be07d2cf-3d22-4ea3-af7c-544256768239",
+                    "Name": "CubeCuberCubest",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "RiddleRiddlerRiddlestな謎解きワールドです。深めの日本語と英語の知識が必要です。話が噛み合わなくなりやすいのでソロ攻略推奨です。 想定˸ 2 hours ～ 4 hours․",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_e1df89b6-8826-4558-ac0c-a4a5da1eea67",
+                    "Name": "謎解ァヵワールド「Reddle」",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "チル、できません。あっと驚く新体験、ありません。一枚謎だけです。8問 ＋ Lunatic3問 想定時間100分～",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_59c6f667-0eea-4c0f-b71a-b9be9f717295",
+                    "Name": "プチ謎解きワールド Voiddle",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "プチ謎解きワールドです！4問だけあります！日本語と一部英語の知識が必要です。想定時間：25分～ 3問解けばクリアですが、普通のClearとPERFECT CLEARがあります。2025⁄5⁄2 Q4のヒントを追加",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_e1df89b6-8826-4558-ac0c-a4a5da1eea67",
+                    "Name": "謎解ァヵワールド「Reddle」",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "チル、できません。あっと驚く新体験、ありません。一枚謎だけです。8問 ＋ Lunatic3問 想定時間100分～",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_643f07f6-d4e3-4850-a414-77e42994eaca",
+                    "Name": "パズル＆謎解きワールド「Inherit」",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "古来から伝わる剣がある。その剣は「継承」を司る１２の石板を解き明かした人物に継承されるらしい。あなたは謎を解明し、剣を入手することはできるのか。日本語と英語それなりのパズル＆謎解きワールドです。予想時間：1時間 動作はローカルです。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_0fa9dd6e-0194-45b0-bfbc-c3cfc6808300",
+                    "Name": "CONTAINER",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "簡単な謎解きです。全1問 予想時間 5分～ ＃VRC_CONTAINER プログラムが動いていなかった問題を修正（5⁄22 23˸00）",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_0a68be6d-2a02-479b-9f83-f16df73bbae7",
+                    "Name": "VRChatを始めたばかりの新人が見様見真似で謎解きワールドを作ってみた件",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "謎ワールド初投稿です！VR推奨です。簡単ですが楽しんでもらえればと思います。 EXはありません。EXはありません。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
                 }
+                
 
             ]
         },
