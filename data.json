@@ -297,17 +297,6 @@
                     }
                 },
                 {
-                    "ID": "wrld_e1df89b6-8826-4558-ac0c-a4a5da1eea67",
-                    "Name": "謎解ァヵワールド「Reddle」",
-                    "RecommendedCapacity": 16,
-                    "Capacity": 32,
-                    "Description": "チル、できません。あっと驚く新体験、ありません。一枚謎だけです。8問 ＋ Lunatic3問 想定時間100分～",
-                    "Platform": {
-                        "PC": true,
-                        "Android": true
-                    }
-                },
-                {
                     "ID": "wrld_59c6f667-0eea-4c0f-b71a-b9be9f717295",
                     "Name": "プチ謎解きワールド Voiddle",
                     "RecommendedCapacity": 16,
