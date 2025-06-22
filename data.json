@@ -350,9 +350,216 @@
                         "PC": true,
                         "Android": true
                     }
+                },
+                {
+                    "ID": "wrld_2b170c33-3454-4270-9956-def3784f4c0f",
+                    "Name": "（たぶん）理不尽謎解きワールドbeta／Unreasonable Riddle World",
+                    "RecommendedCapacity": 6,
+                    "Capacity": 12,
+                    "Description": "謎解きワールドですが、解法が理不尽です。あと最初のパスは0101です。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_4a062acc-dda1-46f9-98ae-ded9a13f7ba3",
+                    "Name": "【AWP-00】（きっと）理不尽謎解きワールド～悲哀と絶望のプディング～",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 16,
+                    "Description": "【Alternative World Project ＃00】ちょっと理不尽な感じの謎解きワールドです。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_95212149-c7ff-478f-8133-205512986d4c",
+                    "Name": "伝言謎解きワールド-Telephone Riddle World-",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 16,
+                    "Description": "二手に分かれて進んでいく謎解きワールドです。It's a riddle world like a telephone game․",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_b1b42c88-961a-43a5-92ac-79e388d84e23",
+                    "Name": "超理不尽謎解きワールド「Nightmare Riddles」",
+                    "RecommendedCapacity": 30,
+                    "Capacity": 60,
+                    "Description": "＃超理不尽謎解き⁄クリアさせる気のない超高難度謎解きワールド。解けない前提で挑め。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_8185719b-800c-44df-8244-f81dd695b40b",
+                    "Name": "【AWP-02】みんなのなぞときワールド-Riddle For Everyone",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 40,
+                    "Description": "【Alternative World Project ＃02】みんなのなぞときワールド-Riddle For Everyone／For JP（but Almost all riddles don't need any languages）",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_0d217f7d-b3f2-447a-96bd-22442c992bcc",
+                    "Name": "【AWP-03】赤ゆく記憶／Reddening of Memories",
+                    "RecommendedCapacity": 25,
+                    "Capacity": 50,
+                    "Description": "【Alternative World Project ＃03】謎解きワールド。想定クリア時間2～4時間。＃赤ゆく記憶",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_5cb548d4-fd74-460b-a6b3-b3e522a82b1b",
+                    "Name": "Riddle Tower 30 -Re˸Built-",
+                    "RecommendedCapacity": 18,
+                    "Capacity": 36,
+                    "Description": "［any languages OK］Riddle Game／about 30-90 min․",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_4a99435c-128b-4487-8014-e1e91ae0231d",
+                    "Name": "ぬぞときワールド - Nuzotoki World",
+                    "RecommendedCapacity": 40,
+                    "Capacity": 80,
+                    "Description": "ぬぞときをしよう。／BGM˸ふわたむプレジデント（https˸⁄⁄dova-s․jp⁄bgm⁄play15825․html）",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_042dffc5-9a6c-4ae4-a655-f64516a64bcb",
+                    "Name": "Riddle Tower 30",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 40,
+                    "Description": "Riddle Tower 30 ⁄ Riddle（Escape） Game ⁄ Supposed Time ˸ 30-60 min․",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_60c6e8f7-2160-4f06-ae36-cada2251d7ea",
+                    "Name": "Riddle Tower 30 - Re˸TRY -",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 40,
+                    "Description": "［Any Languages OK］Go Up The Tower․ ／about 30 - 90 min․",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_a69f3e94-d74c-4097-b116-8f21cc826c2a",
+                    "Name": "謎解きワールドからの脱出 - Escape from Riddle World",
+                    "RecommendedCapacity": 32,
+                    "Capacity": 64,
+                    "Description": "謎解きワールドからの脱出 - Escape from Riddle World／制限時間60分、想定クリア時間30分／よく見る謎ワから脱出しよう",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_fddd09bc-f6c9-4241-a1bc-4b72f48c82d5",
+                    "Name": "謎解きワールド『SnowRabbits』",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 40,
+                    "Description": "＃VRC_SnowRabbits ／ギミックは全てローカル／今年もよろしくお願いいたします。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_e4dcb205-8f8c-4a08-b899-87b0b2000ae2",
+                    "Name": "時猛迫落からの脱出 -Escape From Any Traps-",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "正式名称：時限爆弾・猛毒ガス・迫る天井・落ちる床（この4つを同時に発音する）からの脱出",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_51ade12f-7221-4790-b70b-99c83ecda1b6",
+                    "Name": "巡る謎解き - Rounded Riddle",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "巡る謎解き - Rounded Riddle／簡単な謎解きが10個、難しい謎解きが10個",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_a68c7c71-32e4-4175-bfda-5b528166f219",
+                    "Name": "【AWP-01】Re˸あの日の橙色幻想 -An Orange Dream of The Day-",
+                    "RecommendedCapacity": 24,
+                    "Capacity": 48,
+                    "Description": "＃橙色幻想 ／ 【Alternative World Project ＃01】あの日の橙色幻想 -An Orange Dream of The Day-／探索×謎解きワールド。「少女は、橙色の夢を見た」",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_971f54df-dac4-4fe9-a2ea-dc189ed28e50",
+                    "Name": "デス倉庫からの脱出 -Escape From Deadly Warehouse-",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "謎解きワールド。想定プレイ時間30分～1時間程度。果たして脱出できるのか ＃VRC_デス倉庫",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_abcb7cb8-de70-498e-95bb-bb677f68fb5b",
+                    "Name": "高難度謎解き【DDD】 Double-Dog Dare",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 40,
+                    "Description": "Double-Dog Dare：挑戦状をたたきつける",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_c5ab4c37-feda-43a5-bc2a-a15ac6fce34a",
+                    "Name": "嘘 - LIE",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 40,
+                    "Description": "謎解き。嘘だらけの世界で。ローカル動作。 ＃VRC_LIE／BGM：crystal cave - のる https˸⁄⁄dova-s․jp⁄bgm⁄play15514․html",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_fd9515bc-0fa6-49c8-913f-12d4f111dee3",
+                    "Name": "謎解きワールド『Quadruple - クアドラプル』",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "割とシンプルな謎解きワールドです。想定プレイ時間30～60分",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
                 }
-                
-
             ]
         },
         {
@@ -511,7 +718,7 @@
                         "PC": true,
                         "Android": false
                     }
-                },
+                }
             ]
         },
         {
