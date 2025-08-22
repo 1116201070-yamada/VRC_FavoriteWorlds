@@ -30,7 +30,7 @@
             ]
         },
         {
-            "Category": "クリアしたワールド",
+            "Category": "クリアしたワールド 1",
             "Worlds": [
                 {
                     "ID": "wrld_e33cedae-fcd9-4fe3-bde9-a17764d440ec",
@@ -571,6 +571,133 @@
                         "Android": false
                     }
                 }
+            ]
+        },
+        {
+            "Category": "クリアしたワールド 2",
+            "Worlds": [
+                {
+                    "ID": "wrld_cbb8dc36-c8e1-42cc-a16b-dc80b17e2eb5",
+                    "Name": "謎解きワールド「Your Choices」",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 16,
+                    "Description": "［JP Only］ 短時間で遊べる謎解きワールドです。想定クリアタイム5分～1時間",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_42c93934-ae05-4f8a-b8ec-3e28241c8c22",
+                    "Name": "謎解きワールド「画竜点睛」",
+                    "RecommendedCapacity": 12,
+                    "Capacity": 24,
+                    "Description": "［JP Only］ 日本人向け謎解きワールドです。想定プレイ時間は5分～30分程度。ワールドの表現に一部下品なものが含まれております、ご注意ください。11月5日ヒント追加しました",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_97841945-87a2-4df9-82ab-2b417c402b72",
+                    "Name": "謎解きワールド「1⁄nの解答」",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 16,
+                    "Description": "［JP Only］ 日本人向け謎解きワールドです。想定プレイ時間は15分～60分程度。難易度高めです。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_a1b5b52c-bfe3-409b-9078-c8d6070467ad",
+                    "Name": "CRYSTAL BREAKER",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 16,
+                    "Description": "［EN‚JP］This is a puzzle and riddle game world that does not use language during gameplay․ It takes approximately 10 to 60 minutes to complete․ The recommended number of players is 1 to 4․ ゲーム中に言語を使用していないパズル・謎解きゲームワールドです。 所要時間は10分～60分程度。 推奨プレイ人数は1~4人です。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_1ce9407d-e6f9-4c45-99bc-7f49ff95ec9c",
+                    "Name": "Count UPǃ",
+                    "RecommendedCapacity": 4,
+                    "Capacity": 8,
+                    "Description": "［Any Languages OK］Solve the riddles by trial and error․／about 30～120 min ⁄ 非言語謎解きワールドです。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_c987e865-bba2-422c-b6d4-e01c438ef73c",
+                    "Name": "謎解きワールド「4season」",
+                    "RecommendedCapacity": 12,
+                    "Capacity": 24,
+                    "Description": "四季をモチーフにした謎解きワールドです。所要時間60分~3日程度。9-23ヒントを追加しました！",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_86838754-5a70-487a-bcc4-579b42747b67",
+                    "Name": "謎解きワールド「Nipple To Remover」",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 16,
+                    "Description": "［JP Only］日本語話者向け謎解きワールドです。謎解きワールド「メスケモ温泉物語」を遊びに来たあなた。しかしオープニング中に突然ワールド作者が話しかけてきて？ 想定難易度˸ふつう ワールド動作˸ローカル プレイ人数˸1人～ 想定クリア時間˸15分～80分 解説動画：https˸⁄⁄youtu․be⁄K9To92mqooQ?si＝kzKVEzvQ0i8aTNmL",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_d335c270-5571-464a-95a7-7662a65cc503",
+                    "Name": "Triangular",
+                    "RecommendedCapacity": 5,
+                    "Capacity": 10,
+                    "Description": "［Any Languages OK］Solve puzzles and riddles․ ／about 30 min to complete 3 levels․",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_c6ec7d84-4a00-4198-8544-e894870b1b7d",
+                    "Name": "All correct",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 16,
+                    "Description": "Solving the riddle game ⁄ Language is not used 非言語謎解きワールドです。雰囲気で進んでください。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_c01158fb-3c81-47ac-b772-76737921440e",
+                    "Name": "謎解きワールド「黒紫無双インフィニティ」",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "［JP Only］［DUELECT参加作品］日本語話者向け謎解きワールドです。ワールド動作˸ローカル プレイ人数˸1人～ 想定クリア時間˸30分～90分",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_6017402f-2f15-4f18-8122-6c98379bd079",
+                    "Name": "謎解きワールド「ゴーゴートゥエンティファイブ」",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "［JP Only］過去に開催されたイベント「ホネマツリ25」のために作成された謎解きを、誰でも遊べる内容に作り替えた謎解きワールドです。2人以上で挑戦するステージがありますが、1人でもプレイは可能です。動作：グローバル 想定プレイ時間：30分～2時間",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                }
+
             ]
         },
         {
