@@ -696,8 +696,117 @@
                         "PC": true,
                         "Android": false
                     }
+                },
+                {
+                    "ID": "wrld_4e06d8d2-0a6f-42f6-a508-1fe60b928b26",
+                    "Name": "理科室からの脱出",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 16,
+                    "Description": "理系向けの謎解きワールドです。 物理、化学、数学で2問ずつ。 ほとんど中学レベルですが、物理の1問だけ高校内容です。 ヒントの単語を調べれば解けるとは思います。ストーリーなし",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_40c21422-bf85-43e0-8e74-582b689971dc",
+                    "Name": "何の変哲もないホームワールド ~Welcome Home‚ My Partner~",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "キミの帰りを待っているね",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_23f16ab3-4c4a-4a41-ae74-cd8400c4776c",
+                    "Name": "消失謎 InLapse",
+                    "RecommendedCapacity": 4,
+                    "Capacity": 8,
+                    "Description": "答えたものが消える世界で全ての謎を解き、脱出を目指しましょう。ただし、闇雲に消しすぎると․․․․․？ （回答は小文字英語またはひらがなです。動作は全てグローバルで、途中参加も可能なはずです。セーブ機能はありません。）",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_a6549b95-1943-4dfc-86cf-3123083a46d4",
+                    "Name": "あけおめ謎2025 inVRChat",
+                    "RecommendedCapacity": 6,
+                    "Capacity": 12,
+                    "Description": "新年にちなんだ謎解きワールドです！年明けから謎ワを求める謎解きジャンキーにどうぞ！ 今年もよろしくお願いします！ 全5問でグローバル動作、セーブ機能もストーリー性もありません。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_6039fbc4-c88c-4a82-a245-161c16e06e29",
+                    "Name": "小さな世界の脱出ゲーム",
+                    "RecommendedCapacity": 1,
+                    "Capacity": 6,
+                    "Description": "目が覚めると、体が縮んでしまっていた！ 女の子と協力しながら謎を解いて、元の姿に戻ろう！（想定プレイヤー数は1人、ローカルでセーブなしです）",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_54caa5ea-55ab-4223-ba37-5b55d21164ab",
+                    "Name": "自由への脱出 -Escape into Liberty-",
+                    "RecommendedCapacity": 4,
+                    "Capacity": 8,
+                    "Description": "『ねぇ、知ってる？ この空の向こうには神様がいて、僕らを見守ってくれているんだ』 1~4人想定の謎解きワールドです。動作はグローバルで途中参加も可能です。謎解きのクリア状況は共有され、セーブされます。 このワールドはたけすぴおん（＠takespeon_VRC）さん企画の＃DUELECTにて『空×虹』のテーマで製作したワールドです。 解説＆後日譚 https˸⁄⁄note․com⁄filmelia⁄n⁄nbc2314e96833",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_1a8c9550-40b1-4b10-80a3-0cdec61ccb61",
+                    "Name": "Summer Phantom あの頃の夏の話",
+                    "RecommendedCapacity": 4,
+                    "Capacity": 8,
+                    "Description": "「君に、あの夏を思い出させに来たよ」 祖母の遺品整理の途中で居眠りしたあなたが目覚めると、背後霊の声が聞こえるようになっていた。仕掛けられた謎を解いて、背後霊にも片付けを手伝わせてやろう。 セーブなしヒントありローカル動作の謎解きワールドです。注：アバターサイズが大きい場合雑談・ヒントが使えない可能性があります。謎を解くごとにヒントは更新され、雑談は追加解放されます。おまけ˸ ＃VRC_SummerPhantom filemlia",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_6d44070b-396a-459a-accf-375e36345254",
+                    "Name": "Caramelize 明日、地球が終わるから",
+                    "RecommendedCapacity": 1,
+                    "Capacity": 1,
+                    "Description": "お砂糖と甘い時間を一緒に過ごす謎解きワールドです。おしゃべりを楽しみながら、困っているお砂糖の望みを叶えてあげましょう。でもどうやら、彼女には秘密があるようで․․․․․․？ （ソロプレイ専用ストーリーメインです。英字回答は全て小文字） 解答・後日譚 https˸⁄⁄note․com⁄filmelia⁄n⁄n992d98b93432",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_eb34e9c7-8fbd-4154-a51c-e15bb52ece1f",
+                    "Name": "可惜夜からの脱出 -After Party-",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 16,
+                    "Description": "2025⁄8⁄12の誕生日を記念して、好きな物に関するちょっとした謎解きワールドを作りました。今年の誕生日も最高の一日でした。いつもありがとうございます。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_dcff79b1-46a4-4e0a-9f2e-53c1bad316c5",
+                    "Name": "魔女の館（テナント）からの脱出",
+                    "RecommendedCapacity": 4,
+                    "Capacity": 8,
+                    "Description": "街の一角のテナントにある魔女の館。魔法を教えてくれるというチラシを真に受けたあなたたちは、無事に魔法の力を得ることができるのでしょうか。推奨人数4人程度、動作はグローバルで、途中入場はできません。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
                 }
-
             ]
         },
         {
